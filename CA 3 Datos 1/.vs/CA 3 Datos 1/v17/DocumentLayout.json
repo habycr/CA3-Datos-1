@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{D79DFA52-4BA3-4044-A7B7-7A5897CC40FE}|unit_test_pilas\\unit_test_pilas.csproj|solutionrelative:unit_test_pilas\\unit_test_pilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4E9D10E5-77EE-4114-A507-5548228BAD1E}|Pilas\\Pilas.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca3-datos-1\\ca 3 datos 1\\pilas\\istack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9D10E5-77EE-4114-A507-5548228BAD1E}|Pilas\\Pilas.csproj|solutionrelative:pilas\\istack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9D10E5-77EE-4114-A507-5548228BAD1E}|Pilas\\Pilas.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca3-datos-1\\ca 3 datos 1\\pilas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9D10E5-77EE-4114-A507-5548228BAD1E}|Pilas\\Pilas.csproj|solutionrelative:pilas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E9D10E5-77EE-4114-A507-5548228BAD1E}|Pilas\\Pilas.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca3-datos-1\\ca 3 datos 1\\pilas\\pilas_listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E9D10E5-77EE-4114-A507-5548228BAD1E}|Pilas\\Pilas.csproj|solutionrelative:pilas\\pilas_listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,12 +39,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IStack.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\IStack.cs",
+              "RelativeDocumentMoniker": "Pilas\\IStack.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\IStack.cs",
+              "RelativeToolTip": "Pilas\\IStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:08:10.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\Program.cs",
+              "RelativeDocumentMoniker": "Pilas\\Program.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\Program.cs",
+              "RelativeToolTip": "Pilas\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:01:40.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "pilas_listas.cs",
               "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\pilas_listas.cs",
               "RelativeDocumentMoniker": "Pilas\\pilas_listas.cs",
               "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\pilas_listas.cs",
               "RelativeToolTip": "Pilas\\pilas_listas.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAgAAAACAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T03:02:47.78Z",
               "EditorCaption": ""
@@ -49,20 +83,20 @@
               "RelativeDocumentMoniker": "unit_test_pilas\\unit_test_pilas.cs",
               "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\unit_test_pilas\\unit_test_pilas.cs",
               "RelativeToolTip": "unit_test_pilas\\unit_test_pilas.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T03:00:30.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "pilas_arreglos.cs",
               "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\pilas_arreglos.cs",
               "RelativeDocumentMoniker": "Pilas\\pilas_arreglos.cs",
               "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\pilas_arreglos.cs",
               "RelativeToolTip": "Pilas\\pilas_arreglos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T02:59:39.095Z",
               "EditorCaption": ""

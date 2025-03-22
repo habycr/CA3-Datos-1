@@ -389,6 +389,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Pilas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Pilas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pilas.dll": {}
+        }
       }
     }
   },
@@ -986,6 +996,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Pilas/1.0.0": {
+      "type": "project",
+      "path": "../Pilas/Pilas.csproj",
+      "msbuildProject": "../Pilas/Pilas.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -993,6 +1008,7 @@
       "MSTest.TestAdapter >= 3.1.1",
       "MSTest.TestFramework >= 3.1.1",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
+      "Pilas >= 1.0.0",
       "coverlet.collector >= 6.0.0"
     ]
   },
@@ -1022,7 +1038,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\Pilas.csproj": {
+              "projectPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\Pilas.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

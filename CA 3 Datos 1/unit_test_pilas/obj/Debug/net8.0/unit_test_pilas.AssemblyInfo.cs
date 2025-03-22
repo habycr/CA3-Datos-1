@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("unit_test_pilas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aae0a4db963e1bcc47693bb0a0468f5069790221")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+577b5f6b2b37e5af53a794eb8b75174588947e04")]
 [assembly: System.Reflection.AssemblyProductAttribute("unit_test_pilas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("unit_test_pilas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
