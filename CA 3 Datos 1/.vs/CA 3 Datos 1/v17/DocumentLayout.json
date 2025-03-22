@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D79DFA52-4BA3-4044-A7B7-7A5897CC40FE}|unit_test_pilas\\unit_test_pilas.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca3-datos-1\\ca 3 datos 1\\unit_test_pilas\\unit_test_pilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79DFA52-4BA3-4044-A7B7-7A5897CC40FE}|unit_test_pilas\\unit_test_pilas.csproj|solutionrelative:unit_test_pilas\\unit_test_pilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9D10E5-77EE-4114-A507-5548228BAD1E}|Pilas\\Pilas.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca3-datos-1\\ca 3 datos 1\\pilas\\pilas_listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9D10E5-77EE-4114-A507-5548228BAD1E}|Pilas\\Pilas.csproj|solutionrelative:pilas\\pilas_listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9D10E5-77EE-4114-A507-5548228BAD1E}|Pilas\\Pilas.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca3-datos-1\\ca 3 datos 1\\pilas\\pilas_arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9D10E5-77EE-4114-A507-5548228BAD1E}|Pilas\\Pilas.csproj|solutionrelative:pilas\\pilas_arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pilas_listas.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\pilas_listas.cs",
+              "RelativeDocumentMoniker": "Pilas\\pilas_listas.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\pilas_listas.cs",
+              "RelativeToolTip": "Pilas\\pilas_listas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:02:47.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "unit_test_pilas.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\unit_test_pilas\\unit_test_pilas.cs",
+              "RelativeDocumentMoniker": "unit_test_pilas\\unit_test_pilas.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\unit_test_pilas\\unit_test_pilas.cs",
+              "RelativeToolTip": "unit_test_pilas\\unit_test_pilas.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:00:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pilas_arreglos.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\pilas_arreglos.cs",
+              "RelativeDocumentMoniker": "Pilas\\pilas_arreglos.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA3-Datos-1\\CA 3 Datos 1\\Pilas\\pilas_arreglos.cs",
+              "RelativeToolTip": "Pilas\\pilas_arreglos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T02:59:39.095Z",
+              "EditorCaption": ""
             }
           ]
         }
